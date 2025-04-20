@@ -193,5 +193,16 @@ Animal character are relatively unstable.
 <img src='assets/show.png'>
 
 
+## Cite
+If you find InstantCharacter useful for your research and applications, please cite us using this BibTeX:
+
+```bibtex
+@article{tao2025instantcharacter,
+  title={InstantCharacter: Personalize Any Characters with a Scalable Diffusion Transformer Framework},
+  author={Tao, Jiale and Zhang, Yanbing and Wang, Qixun and Cheng, Yiji and Wang, Haofan and Bai, Xu and Zhou, Zhengguang and Li, Ruihuang and Wang, Linqing and Wang, Chunyu and others},
+  journal={arXiv preprint arXiv:2504.12395},
+  year={2025}
+}
+```
 
 
