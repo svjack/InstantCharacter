@@ -93,7 +93,7 @@ output_dir = "coastal_scene_outputs"
 os.makedirs(output_dir, exist_ok=True)
 
 # Reference images to cycle through
-reference_images = ['苏锐.jpeg', '陈旭阳.jpeg']
+reference_images = ['苏锐.jpg', '陈旭阳.jpg']
 
 coastal_scenes = [
     "The dying sun stains the tide pools crimson, where stranded jellyfish pulse like broken hearts in the shallow water.",
