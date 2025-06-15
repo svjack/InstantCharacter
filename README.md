@@ -44,7 +44,8 @@ InstantCharacter is an innovative, tuning-free method designed to achieve charac
 # Base
 
 ```python
-# !pip install transformers accelerate diffusers huggingface_hub
+# !pip install -U transformers accelerate diffusers huggingface_hub
+# !pip install -U timm
 
 import torch
 from PIL import Image
